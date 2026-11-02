@@ -1,0 +1,7 @@
+protocol,space,optimizer,runs,candidate_positions,unique_configs_trained_mean,unique_configs_trained_min,unique_configs_trained_max,fitness_trainings_per_run_mean
+Main (Algorithms 1-2),original,GA,5,300,226.4,222,229,226.4
+Main (Algorithms 1-2),original,PSO,5,300,289.8,279,298,289.8
+Distinct-budget (100),original,GA,5,selected at exactly 100 unique,107.4,104,112,107.4
+Distinct-budget (100),tight,GA,5,selected at exactly 100 unique,105.2,100,111,105.2
+Distinct-budget (100),original,PSO,5,selected at exactly 100 unique,117.8,116,119,117.8
+Distinct-budget (100),tight,PSO,5,selected at exactly 100 unique,118.2,117,119,118.2

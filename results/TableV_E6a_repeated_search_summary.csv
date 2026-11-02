@@ -1,0 +1,5 @@
+space,optimizer,runs,test_MAPE_mean,test_MAPE_sd_runs,test_MAPE_min,test_MAPE_max,share_runs_on_bounds,vs_naive,GA_vs_PSO_mannwhitney_p
+original,GA,5,1.9703,0.2362,1.6903,2.2253,0.4,1.4406,0.5476
+original,PSO,5,2.1707,0.3562,1.6817,2.6085,1.0,1.5871,0.5476
+tight,GA,5,2.0806,0.1932,1.8436,2.3315,0.2,1.5213,0.6905
+tight,PSO,5,2.0055,0.0846,1.8964,2.1286,0.6,1.4663,0.6905

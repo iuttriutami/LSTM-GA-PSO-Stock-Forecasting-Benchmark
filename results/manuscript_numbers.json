@@ -1,0 +1,20 @@
+{
+ "naive_MAPE": 1.3677,
+ "LSTM_PSO_DM_onestep": 16.6166,
+ "LSTM_PSO_DM_p": 0.0,
+ "LSTM_PSO_MASE_mean": 2.7025,
+ "sign_test_p": 0.0312,
+ "RW_better_count": 6,
+ "median_ratio": 2.9999,
+ "ratio_min": 1.395,
+ "ratio_max": 11.6052,
+ "multistep_sig_horizons_RW_better": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "multistep_model_better_any": false,
+ "best_learned": "GRU"
+}

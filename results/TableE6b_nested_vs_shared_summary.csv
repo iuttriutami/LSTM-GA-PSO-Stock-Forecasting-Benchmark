@@ -1,0 +1,5 @@
+optimizer,selection,mean,std,min,max,count
+GA,nested,1.98,0.022,1.956,1.998,3
+GA,shared,2.076,0.123,1.944,2.186,3
+PSO,nested,2.181,0.183,1.991,2.356,3
+PSO,shared,1.971,0.069,1.896,2.033,3

@@ -1,0 +1,7 @@
+space,optimizer,selection,run,budget,distinct_evals,best_val_mse,on_bounds,n_seed,test_MAPE_mean,test_MAPE_sd,hp_units,hp_n_layers,hp_dropout,hp_lr,hp_batch_size,hp_timestep,hp_optimizer,source
+tight,GA,nested,0,100,,,,5,1.98615,,,,,,,,,E6 sebelumnya (GPU)
+tight,GA,nested,1,100,,,,5,1.99795,,,,,,,,,E6 sebelumnya (GPU)
+tight,GA,nested,2,100,112.0,0.00226,lr,5,1.95561,0.15105,92.0,1.0,0.34,0.0005,46.0,20.0,nadam,dihitung di notebook ini (CPU)
+tight,PSO,nested,0,100,118.0,0.00207,"batch_size,timestep",5,2.35608,0.23306,79.0,1.0,0.35,0.00013,32.0,25.0,nadam,dihitung di notebook ini (CPU)
+tight,PSO,nested,1,100,118.0,0.00198,dropout,5,2.1954,0.05137,79.0,1.0,0.45,0.00025,39.0,18.0,adam,dihitung di notebook ini (CPU)
+tight,PSO,nested,2,100,119.0,0.00218,"lr,timestep",5,1.99118,0.1138,74.0,1.0,0.23,0.0005,79.0,25.0,nadam,dihitung di notebook ini (CPU)

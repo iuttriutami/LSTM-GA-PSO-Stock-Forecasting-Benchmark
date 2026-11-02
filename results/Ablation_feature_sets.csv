@@ -1,0 +1,5 @@
+feature_set,n_features,n,MAPE_mean,MAPE_sd
+Close only,1,30,2.2495,0.2821
+OHLCV,5,30,2.1554,0.2578
+OHLCV + TA,14,30,2.2125,0.2883
+OHLCV + TA + EXT,16,30,3.4988,0.8783

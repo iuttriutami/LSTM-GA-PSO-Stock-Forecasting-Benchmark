@@ -1,0 +1,5 @@
+config,feature_set,n_seed,MAPE_mean,MAPE_sd,MAPE_min,MAPE_max,share_below_2pct,vs_naive,at_bounds
+LSTM-PSO (arsip),OHLCV+TA+EXT,15,3.572,0.815,2.364,5.465,0.0,2.61,"units,dropout,lr,batch_size"
+LSTM-GA (arsip),OHLCV+TA+EXT,15,2.758,0.697,1.667,4.173,0.13,2.02,none
+LSTM (standard),OHLCV+TA+EXT,15,2.211,0.377,1.842,3.338,0.33,1.62,lr
+LSTM (interior),OHLCV+TA+EXT,15,2.017,0.104,1.827,2.151,0.47,1.47,none

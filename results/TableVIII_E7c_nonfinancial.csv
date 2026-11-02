@@ -1,0 +1,5 @@
+series,n_obs,model,MAPE_model,MAPE_RW,MASE,DM,p_raw,share_test_outside_train,p_holm,verdict
+CO2 (weekly),2284,AR on differences (p=52),0.0859,0.1111,0.8272,-7.6181,0.0,0.7659,0.0,model better
+CO2 (weekly),2284,"LSTM (interior, 5 seeds)",0.1482,0.1111,1.4268,7.4941,0.0,0.7659,0.0,RW better
+El Niño SST (monthly),732,AR on differences (p=12),1.7941,4.2209,0.4231,-10.7362,0.0,0.0,0.0,model better
+El Niño SST (monthly),732,"LSTM (interior, 5 seeds)",2.5841,4.2209,0.5981,-6.1933,0.0,0.0,0.0,model better

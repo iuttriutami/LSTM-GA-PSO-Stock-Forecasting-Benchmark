@@ -1,0 +1,8 @@
+model,n_seed,MAPE_mean,MAPE_sd,MAPE_ensemble,MASE_ensemble,DM_ensemble,p_raw,seeds_RW_sig_better,seeds_model_sig_better,p_holm,verdict
+GRU (default),15,1.978,0.8802,1.6174,1.2857,4.3567,0.0,1.0,0.0,0.0,RW better
+LSTM (default),15,2.2109,0.3766,1.9424,1.5557,6.5989,0.0,1.0,0.0,0.0,RW better
+LSTM-GA (Table I),15,2.7577,0.6968,2.4783,1.872,9.5802,0.0,1.0,0.0,0.0,RW better
+LSTM-PSO (Table I),15,3.5723,0.8153,3.5383,2.7329,17.0274,0.0,1.0,0.0,0.0,RW better
+LSTM (interior),15,2.0165,0.1041,1.9608,1.5613,6.0866,0.0,1.0,0.0,0.0,RW better
+LSTM-GA (tight),15,1.9287,0.1626,1.8688,1.483,5.7717,0.0,1.0,0.0,0.0,RW better
+LSTM-PSO (tight),15,2.0377,0.2759,1.8568,1.4765,5.5938,0.0,1.0,0.0,0.0,RW better

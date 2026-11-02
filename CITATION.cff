@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "LSTM-GA-PSO Stock Forecasting Benchmark"
+version: 1.0.0
+date-released: 2026-10-31
+license: MIT
+repository-code: "https://github.com/iuttriutami/LSTM-GA-PSO-Stock-Forecasting-Benchmark"
+authors:
+  - family-names: Utami
+    given-names: Iut Tri
+    affiliation: "Department of Statistics, Diponegoro University"
+  - family-names: Kartikasari
+    given-names: Puspita
+    affiliation: "Department of Statistics, Diponegoro University"
+  - family-names: Pujiati
+    given-names: Wahyu
+    affiliation: "Department of Statistics, Diponegoro University"
+  - family-names: Arisandi
+    given-names: Rizwan
+    affiliation: "Department of Computer Science, Bina Nusantara University"
+preferred-citation:
+  type: article
+  title: "Visual Benchmarking of Metaheuristic Optimized Deep Learning Against Random Walk Stock Forecasts"
+  authors:
+    - family-names: Utami
+      given-names: Iut Tri
+    - family-names: Kartikasari
+      given-names: Puspita
+    - family-names: Pujiati
+      given-names: Wahyu
+    - family-names: Arisandi
+      given-names: Rizwan
+  journal: "JOIV: International Journal on Informatics Visualization"
+  year: 2026
+  notes: "Under review"
